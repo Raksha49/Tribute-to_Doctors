@@ -1,0 +1,44 @@
+body {
+    height: 10px;
+    background-image: url("https://img.freepik.com/free-vector/clean-medical-background_53876-97927.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.article h1 {
+    font-size: 8mm;
+    text-align: center;
+    color: rgba(236, 20, 20, 0.945);
+    text-decoration: underline;
+}
+
+.article {
+    background-image: url("http://prod-upp-image-read.ft.com/70d4eece-7438-11ea-90ce-5fb6c07a27f2");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 115%;
+    height: 800px;
+    font-size: 20px;
+    text-align: center;
+}
+
+a:visited {
+    color: rgb(118, 17, 131);
+}
+
+a:hover {
+    background-color: lightpink;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 800px;
+    cursor: pointer;
+    background-color: turquoise;
+}
